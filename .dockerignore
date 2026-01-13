@@ -43,6 +43,5 @@ Pipfile.lock
 *.jpg
 *.jpeg
 
-# SonarQube
-sonar-project.properties
-.scannerwork/
+# GitHub
+.github/
