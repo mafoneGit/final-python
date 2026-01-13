@@ -1,0 +1,48 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Database (will be created fresh in container)
+*.db
+
+# Pipenv (using requirements.txt instead)
+Pipfile
+Pipfile.lock
+
+# Documentation and images
+*.md
+*.png
+*.jpg
+*.jpeg
+
+# SonarQube
+sonar-project.properties
+.scannerwork/
